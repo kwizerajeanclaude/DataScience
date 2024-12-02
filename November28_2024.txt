@@ -1,4 +1,5 @@
 #### Read-in the StartSalary.csv
+Statistics
 
 salary.df <- read.csv("StartSalary.csv", header = TRUE)  # load data
 dim(salary.df)  # find the dimension of data frame
